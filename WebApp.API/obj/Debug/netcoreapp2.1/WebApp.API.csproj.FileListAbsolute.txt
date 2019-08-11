@@ -1,0 +1,14 @@
+C:\Users\ryans\Desktop\WebApp\WebApp.API\bin\Debug\netcoreapp2.1\WebApp.API.deps.json
+C:\Users\ryans\Desktop\WebApp\WebApp.API\bin\Debug\netcoreapp2.1\WebApp.API.runtimeconfig.json
+C:\Users\ryans\Desktop\WebApp\WebApp.API\bin\Debug\netcoreapp2.1\WebApp.API.runtimeconfig.dev.json
+C:\Users\ryans\Desktop\WebApp\WebApp.API\bin\Debug\netcoreapp2.1\WebApp.API.dll
+C:\Users\ryans\Desktop\WebApp\WebApp.API\bin\Debug\netcoreapp2.1\WebApp.API.pdb
+C:\Users\ryans\Desktop\WebApp\WebApp.API\obj\Debug\netcoreapp2.1\WebApp.API.csprojAssemblyReference.cache
+C:\Users\ryans\Desktop\WebApp\WebApp.API\obj\Debug\netcoreapp2.1\WebApp.API.csproj.CoreCompileInputs.cache
+C:\Users\ryans\Desktop\WebApp\WebApp.API\obj\Debug\netcoreapp2.1\WebApp.API.RazorAssemblyInfo.cache
+C:\Users\ryans\Desktop\WebApp\WebApp.API\obj\Debug\netcoreapp2.1\WebApp.API.RazorAssemblyInfo.cs
+C:\Users\ryans\Desktop\WebApp\WebApp.API\obj\Debug\netcoreapp2.1\WebApp.API.AssemblyInfoInputs.cache
+C:\Users\ryans\Desktop\WebApp\WebApp.API\obj\Debug\netcoreapp2.1\WebApp.API.AssemblyInfo.cs
+C:\Users\ryans\Desktop\WebApp\WebApp.API\obj\Debug\netcoreapp2.1\WebApp.API.RazorTargetAssemblyInfo.cache
+C:\Users\ryans\Desktop\WebApp\WebApp.API\obj\Debug\netcoreapp2.1\WebApp.API.dll
+C:\Users\ryans\Desktop\WebApp\WebApp.API\obj\Debug\netcoreapp2.1\WebApp.API.pdb
